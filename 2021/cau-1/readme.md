@@ -1,7 +1,7 @@
 
 ## Phân tích đề
 1. Giới hạn của số K là 1 < K < 10^9  
--> Vậy không thể dùng vòng lặp for để giải bài này(Vòng lặp thường ở mức 10^5
+-> Vậy không thể dùng vòng lặp for để giải bài này(Vòng lặp thường ở mức 10^5)
 2. Bài như vầy thường là tìm công thức, hoặc cách tính đặt biệt  
 
 ## Tìm công thức  
