@@ -45,8 +45,8 @@ long tinhTong(long p[], long c[], int n, long k) {
 
 int main() {
 
-    int n;
-    long k;
+    int n = 0;
+    long k = 0;
 
     // 1. doc file
     ifstream input("SOCOLA.INP");
